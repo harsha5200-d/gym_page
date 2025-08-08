@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Libertinus+Math&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Bungee+Tint&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Karla:ital,wght@0,200..800;1,200..800&family=Libertinus+Math&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.container
+{
+    max-width: 90vw;
+}
+
+.msreen
+{
+    min-height: 90vh;
+}
+
+.bg-red
+{
+    background-color: red;
+}
+
+.max-auto
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.justify-between
+{
+    justify-content: space-between;
+    
+}
+
+.justify-center
+{
+    justify-content: center;
+}
+
+.item-center
+{
+    align-items: center;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
+
+.font-bold
+{
+    font-style: italic;
+}
+
+.img-1
+{
+    margin-bottom: 0px;
+}
+
+.my-1
+{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.my-2
+{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.font-size
+{
+    color: #facc15; /* Yellow/Gold - Attention grabbing */
+    font-size: 25px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+}
+
+.font-size-p
+{
+    font-size: 15px;
+    font-family: "Host Grotesk", sans-serif;
+    color: #434547da; 
+
+}
+.price-par
+{
+   font-family: "Karla", sans-serif;
+   padding: 2vh 8vw;
+   text-align: center;
+}
+
+.price-box
+{
+    font-family: "Bebas Neue", sans-serif;
+}
+.px-2
+{
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+.text-blue
+{
+    color: blue;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.btn
+{
+    padding: 4px 12px;
+    border: 2px solid rgb(238, 240, 245);
+    color: white;
+    cursor: pointer;
+    background-color: rgb(101, 101, 244);
+    border-radius: 9px;
+}
+
+.overflow-hidden
+{
+    overflow-x: hidden;
+}
+
+.highlated
+{
+    font-size: 1.4rem;
+    font-family: "Karla", sans-serif;
+}
+
+.highlated-1
+{
+    font-size: 1.9rem;
+    font-family: "Karla", sans-serif;
+}
+
+.highlated-2
+{
+    font-size: 1.6rem;
+    font-family: "Karla", sans-serif;
+    padding: 15px 0;
+}
+
+.font-sty
+{
+     font-family: "Karla", sans-serif;
+}
+
